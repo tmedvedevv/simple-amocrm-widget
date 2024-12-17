@@ -1,0 +1,34 @@
+{
+    "widget":{
+        "name":"MyWidget",
+        "short_description":"Short description",
+        "description":"Full description",
+        "tour_description":"Tour description"
+    },
+    "settings":{
+        "login":"User login",
+        "password":"Password",
+        "users":"Users",
+        "users_lp":"Users (Login, Password)",
+        "oferta":"I am agree to send account data to LTD \"Horns and hooves\"",
+        "oferta_error":"To continue you need to agree"
+    },
+    "advanced":{
+        "title":"Settings menu item title"
+    },
+    "salesbot":{
+        "button_title":"Button title",
+        "button_caption":"Button caption",
+        "button_title_default_value":"Button title",
+        "button_caption_default_value":"Button caption",
+        "text":"Text",
+        "number":"Number",
+        "url":"URL",
+        "handler_name":"Handler name",
+        "success_callback_title": "Success",
+        "fail_callback_title": "Fail"
+    },
+    "dp":{
+        "message": "Message"
+    }
+}

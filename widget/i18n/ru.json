@@ -1,0 +1,34 @@
+{
+    "widget":{
+        "name":"Мой виджет",
+        "short_description":"Короткое описание виджета",
+        "description":"Полное описание виджета",
+        "tour_description":"Описание виджета"
+    },
+    "settings":{
+        "login":"Логин",
+        "password":"Пароль",
+        "users":"Пользователи",
+        "users_lp":"Пользователи (логин, пароль)",
+        "oferta":"Согласен на передачу данных на сервер ООО \"Рога и копыта\"",
+        "oferta_error":"Для продолжения необходимо дать согласие"
+    },
+    "advanced":{
+        "title":"Заголовок меню в настройках"
+    },
+    "salesbot":{
+        "button_title":"Заголовок кнопки",
+        "button_caption":"Описание кнопки",
+        "button_title_default_value":"Заголовок кнопки",
+        "button_caption_default_value":"Описание кнопки",
+        "text":"Текст",
+        "number":"Число",
+        "url":"URL",
+        "handler_name":"Название обработчика",
+        "success_callback_title": "Успешно",
+        "fail_callback_title": "Не успешно"
+    },
+    "dp":{
+        "message": "Сообщение"
+    }
+}
